@@ -1,0 +1,6 @@
+{
+  "name": "BudgetBuddy",
+  "description": "Salary budgeting app that tracks monthly expenses and savings goals automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
